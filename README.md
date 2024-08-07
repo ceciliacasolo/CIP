@@ -1,6 +1,6 @@
 # Project Title
 
-Code for paper Learning Counterfactually Invariant Predictors. 
+Code for project *Learning Counterfactually Invariant Predictors*. 
 
 ## Installation
 
@@ -13,5 +13,4 @@ conda create -n your_env_name python=3.9
 conda activate your_env_name
 pip install -r requirements.txt
 
-## Running code
 
