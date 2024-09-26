@@ -1,7 +1,8 @@
 # Learning Counterfactually Invariant Predictors
 
 Code for paper:
-*Learning Counterfactually Invariant Predictors*  Francesco Quinzan^*, Cecilia Casolo^*, Krikamol Muandet, Yucen Luo, Niki Kilbertus
+
+Quinzan, F., Casolo, C., Muandet, K., Luo, Y. and Kilbertus, N., TMLR 2022. Learning counterfactually invariant predictors.
 
 ## Installation
 
