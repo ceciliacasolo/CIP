@@ -1,6 +1,7 @@
-# Project Title
+# Learning Counterfactually Invariant Predictors
 
-Code for project *Learning Counterfactually Invariant Predictors*. 
+Code for paper:
+*Learning Counterfactually Invariant Predictors*  Francesco Quinzan^*, Cecilia Casolo^*, Krikamol Muandet, Yucen Luo, Niki Kilbertus
 
 ## Installation
 
